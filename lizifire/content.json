@@ -1,0 +1,298 @@
+{
+  "home": {
+    "title": "留下记忆。",
+    "subtitle": "文字／影像／音乐／游戏",
+    "image": "images/home-art.webp"
+  },
+  "pages": {
+    "essays": "一些不急着得出结论的记录。关于日常、聆听、旅行，以及那些值得多停留一会儿的事。",
+    "music": "唱片、歌单与完整聆听。这里不计算播放量，只留下愿意再次打开的声音。",
+    "games": "不是排行榜，也不是分数表。只收藏那些让人愿意绕路、驻足，或在字幕升起后继续坐一会儿的世界。",
+    "about": "一个仍在学习如何记录的人。"
+  },
+  "articles": [
+    {
+      "id": 1,
+      "title": "把普通的一天，留成一张底片",
+      "date": "2026.10.18",
+      "summary": "关于日常、光线，以及为什么仍然愿意记录。",
+      "cover": "images/tokyo-street.webp",
+      "body": [
+        "有些日子并没有发生特别的事。光线从窗外移进来，杯子在桌上留下水印，街道在傍晚短暂地安静下来。过去我会让这样的时刻直接流走，现在则愿意为它停留几秒。",
+        "记录并不是要把生活变成一场展览。它更像是在时间里放下一枚书签，让以后的自己能够回到这里，记起当时的温度、声音和心情。",
+        "所以这个网站不追求完整，也不追求频繁更新。只保留那些真正想再看一次的东西，就已经足够。"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "在城市醒来之前",
+      "date": "2026.09.02",
+      "summary": "清晨六点的街道，比目的地更值得记住。",
+      "cover": "images/lisbon.webp",
+      "body": [
+        "旅行中最喜欢的时刻，常常是城市还没有完全醒来的时候。商铺没有开门，路口只有零星的行人，建筑终于从人声里显露出来。",
+        "没有攻略里的必去地点，只是沿着一条街道慢慢走。相机挂在肩上，却很少举起来。先看，再决定要不要按下快门。"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "听完一张唱片以后",
+      "date": "2026.07.21",
+      "summary": "不切歌，也不快进，重新练习完整聆听。",
+      "cover": "images/studio.webp",
+      "body": [
+        " playlist 让音乐变得随处可得，也让聆听变得容易分心。重新听完一张唱片，像是把散落的注意力一点点收回来。",
+        "曲序、停顿和最后一首曲子的余韵，都是作品的一部分。设备当然重要，但最终留下来的，仍然是音乐改变房间气氛的那几分钟。"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "游戏结束后的工作人员名单",
+      "date": "2026.05.12",
+      "summary": "有些故事，在字幕升起时才开始沉淀。",
+      "cover": "images/city-sunset.webp",
+      "body": [
+        "通关并不总意味着结束。有时候只是坐在屏幕前，让音乐继续播放，回想一路上遇见的人和做过的选择。",
+        "好的游戏会留下一种难以立刻说清楚的情绪。把这些感受写下来，是为了不让它被下一款游戏太快覆盖。"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "房间里的声音",
+      "date": "2026.03.08",
+      "summary": "关于设备、空间，和属于自己的听感。",
+      "cover": "images/city-walk.webp",
+      "body": [
+        "同一件设备放进不同房间，会有不同的性格。比起追逐参数，我越来越在意它是否适合每天生活的地方。",
+        "声音最终要回到使用里：音量不必很大，细节不必刻意炫耀，能让人愿意继续听下去就很好。"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "给记忆留一点空白",
+      "date": "2025.12.30",
+      "summary": "年末整理照片时，删去和保留同样重要。",
+      "cover": "images/tokyo-car.webp",
+      "body": [
+        "整理旧照片时，最花时间的不是挑选，而是承认许多画面已经不再重要。删除并不是否定当时，只是为此刻腾出空间。",
+        "留下来的照片之间，也需要空白。它们不必解释彼此，只要在再次打开时，仍能带回来一点熟悉的感觉。"
+      ]
+    }
+  ],
+  "mediaItems": [
+    {
+      "date": "2026-10-18",
+      "title": "街角，下午四点",
+      "location": "东京",
+      "src": "images/tokyo-street.webp",
+      "type": "照片",
+      "note": "光从楼与楼之间落下来，街道突然变得安静。"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "城市日落",
+      "location": "洛杉矶",
+      "src": "images/city-sunset.webp",
+      "type": "照片",
+      "note": "一天的最后几分钟，云层替城市换了颜色。"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "路过的人",
+      "location": "纽约",
+      "src": "images/city-walk.webp",
+      "type": "视频",
+      "note": "自录视频占位封面，正式版将在这里嵌入你的作品。"
+    },
+    {
+      "date": "2026-02-14",
+      "title": "日光穿过旧城区",
+      "location": "里斯本",
+      "src": "images/lisbon.webp",
+      "type": "照片",
+      "note": "沿着轨道向上看，风从街道另一端吹来。"
+    },
+    {
+      "date": "2025-11-03",
+      "title": "小巷来信",
+      "location": "东京",
+      "src": "images/tokyo-car.webp",
+      "type": "照片",
+      "note": "普通的路，普通的午后，一次偶然的回头。"
+    },
+    {
+      "date": "2025-09-20",
+      "title": "设备与房间",
+      "location": "家中",
+      "src": "images/studio.webp",
+      "type": "视频",
+      "note": "设备记录短片占位封面，视频默认不会自动播放。"
+    }
+  ],
+  "albums": [
+    {
+      "title": "In Rainbows",
+      "artist": "Radiohead",
+      "year": "2007",
+      "tag": "偏爱",
+      "note": "适合在夜晚完整听完。细密的声音层次里，保留着一种很温柔的失重感。",
+      "playlist": "深夜完整聆听",
+      "palette": "#b74732 #e5ad77 #272c32",
+      "mark": "IR"
+    },
+    {
+      "title": "Kind of Blue",
+      "artist": "Miles Davis",
+      "year": "1959",
+      "tag": "推荐",
+      "note": "不需要理解爵士，也能先感受到空间。每一次聆听都会注意到不同的乐器。",
+      "playlist": "房间的蓝色时刻",
+      "palette": "#203d58 #7395a2 #d4c9ae",
+      "mark": "KB"
+    },
+    {
+      "title": "Vespertine",
+      "artist": "Björk",
+      "year": "2001",
+      "tag": "偏爱",
+      "note": "像雪落在很轻的电子设备上。亲密、寒冷，又有极其丰富的细节。",
+      "playlist": "冬日私密聆听",
+      "palette": "#c7d5d5 #6c8893 #19262e",
+      "mark": "VE"
+    },
+    {
+      "title": "Selected Ambient Works",
+      "artist": "Aphex Twin",
+      "year": "1992",
+      "tag": "推荐",
+      "note": "让背景慢慢变成前景。适合独处、阅读，也适合什么都不做。",
+      "playlist": "低音量环境音乐",
+      "palette": "#6b7968 #b6b895 #30352d",
+      "mark": "SA"
+    },
+    {
+      "title": "The Glow Pt. 2",
+      "artist": "The Microphones",
+      "year": "2001",
+      "tag": "偏爱",
+      "note": "粗糙、辽阔，像记忆没有经过修整。音墙退去后，旋律仍然留在原地。",
+      "playlist": "失真与余韵",
+      "palette": "#3b493f #9b9a6e #d8c9a1",
+      "mark": "G2"
+    },
+    {
+      "title": "Mingus Ah Um",
+      "artist": "Charles Mingus",
+      "year": "1959",
+      "tag": "推荐",
+      "note": "有力量，也有幽默。乐器之间像一群性格鲜明的人，在同一个房间里交谈。",
+      "playlist": "让房间热闹一点",
+      "palette": "#d0a33e #923f2f #253b45",
+      "mark": "MA"
+    }
+  ],
+  "games": [
+    {
+      "title": "Outer Wilds",
+      "original": "Outer Wilds",
+      "platform": "PC",
+      "status": "已完成",
+      "tag": "偏爱",
+      "year": "2019",
+      "review": "好奇心本身就是地图。它没有催促你去哪里，却让每一次起飞都成为难忘的事。",
+      "palette": "#1b3b48 #d38a45",
+      "image": "images/city-sunset.webp"
+    },
+    {
+      "title": "塞尔达传说：旷野之息",
+      "original": "The Legend of Zelda: Breath of the Wild",
+      "platform": "Switch",
+      "status": "在玩过",
+      "tag": "偏爱",
+      "year": "2017",
+      "review": "最喜欢反而不是抵达，而是在半路改变主意。山、雨和远处的光，都值得绕路。",
+      "palette": "#72816a #d9c992",
+      "image": "images/lisbon.webp"
+    },
+    {
+      "title": "极乐迪斯科",
+      "original": "Disco Elysium",
+      "platform": "PC",
+      "status": "已完成",
+      "tag": "推荐",
+      "year": "2019",
+      "review": "一座城市、一场调查，以及脑子里永不停止的声音。文本像小说一样有重量。",
+      "palette": "#a44e37 #e2b962",
+      "image": "images/city-walk.webp"
+    },
+    {
+      "title": "风之旅人",
+      "original": "Journey",
+      "platform": "PlayStation",
+      "status": "已完成",
+      "tag": "推荐",
+      "year": "2012",
+      "review": "短暂，却留有很长的余韵。没有解释太多，陪伴本身就已经足够清楚。",
+      "palette": "#a9693f #e8c98f",
+      "image": "images/tokyo-car.webp"
+    },
+    {
+      "title": "空洞骑士",
+      "original": "Hollow Knight",
+      "platform": "Switch",
+      "status": "在玩过",
+      "tag": "推荐",
+      "year": "2017",
+      "review": "黑暗中的小路总会回到熟悉的地方。克制的手绘世界里，藏着惊人的深度。",
+      "palette": "#263a4a #91a5b5",
+      "image": "images/tokyo-street.webp"
+    },
+    {
+      "title": "死亡搁浅",
+      "original": "Death Stranding",
+      "platform": "PlayStation",
+      "status": "已完成",
+      "tag": "偏爱",
+      "year": "2019",
+      "review": "把漫长的路走得有意义。风景、音乐和送货之间，形成了一种很私人的节奏。",
+      "palette": "#4c5b5d #a9b6ae",
+      "image": "images/studio.webp"
+    }
+  ],
+  "gear": [
+    {
+      "name": "电吉他",
+      "model": "设备名称待补充",
+      "description": "记录琴型、拾音器与日常使用感受，参数只保留最重要的部分。"
+    },
+    {
+      "name": "音箱",
+      "model": "设备名称待补充",
+      "description": "放在房间里的真实声音：音量、动态，以及最常用的一组设置。"
+    },
+    {
+      "name": "效果器",
+      "model": "设备名称待补充",
+      "description": "串联顺序与声音偏好，也记录那些不再使用、却仍然留下的原因。"
+    },
+    {
+      "name": "录音设备",
+      "model": "设备名称待补充",
+      "description": "从琴弦到文件的简单链路，用于保存练习、片段和完整作品。"
+    }
+  ],
+  "guitar": {
+    "title": "电吉他与房间里的声音",
+    "subtitle": "设备、练习，以及被保存下来的演奏片段。",
+    "image": "images/studio.webp"
+  },
+  "about": {
+    "title": "留一点时间，\n给真正喜欢的事。",
+    "paragraphs": [
+      "这里是我的个人档案，用来保存文字、照片、音乐和游戏。比起及时更新，我更希望每一件内容都值得被留下。",
+      "最近在练习电吉他，整理旅行照片，也缓慢地写着一些不一定有结论的随笔。"
+    ],
+    "status": "目前状态：记录、聆听、偶尔出发。",
+    "photo": "images/about-photo.webp"
+  }
+}
